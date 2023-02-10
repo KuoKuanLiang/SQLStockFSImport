@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSImport", "FSImport.csproj", "{B1DD9E3D-80E1-4C22-B620-AA8658D2CC97}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FSImportSetup1", "..\FSImportSetup1\FSImportSetup1.vdproj", "{A69191E5-4AD0-411A-A7FB-B081A6790912}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DD9E3D-80E1-4C22-B620-AA8658D2CC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DD9E3D-80E1-4C22-B620-AA8658D2CC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DD9E3D-80E1-4C22-B620-AA8658D2CC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DD9E3D-80E1-4C22-B620-AA8658D2CC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69191E5-4AD0-411A-A7FB-B081A6790912}.Debug|Any CPU.ActiveCfg = Debug
+		{A69191E5-4AD0-411A-A7FB-B081A6790912}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2A8EA3-E849-4C72-A36F-30B99320BBEC}
+	EndGlobalSection
+EndGlobal
